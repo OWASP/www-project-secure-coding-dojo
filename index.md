@@ -8,6 +8,7 @@ type: code
 
 ---
 
+![Alt text](https://raw.githubusercontent.com/trendmicro/SecureCodingDojo/master/screenshots/frontpage.png "Secure Coding Dojo Training Portal Front Page")
 
 ### Description
 
