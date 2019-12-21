@@ -1,2 +1,2 @@
 ### Leaders
-*[Paul Ionescu](https://twitter.com/pentesq)
+* [Paul Ionescu](https://twitter.com/pentesq)
