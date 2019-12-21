@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Secure Coding Dojo
-tags: example-tag
+tags: 
 level: 2
 type: code
 
