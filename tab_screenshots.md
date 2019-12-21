@@ -7,3 +7,5 @@ tags: screenshots-tag
 ---
 
 ## Screenshots
+
+Screenshots will be added here.
