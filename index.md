@@ -8,8 +8,6 @@ type: code
 
 ---
 
-![Alt text](https://raw.githubusercontent.com/trendmicro/SecureCodingDojo/master/screenshots/frontpage.png "Secure Coding Dojo Training Portal Front Page")
-
 ### Description
 
 The Secure Coding Dojo is a training platform which can be customized to integrate with custom vulnerable websites and other CTF challenges.
