@@ -6,53 +6,43 @@ tags: example-tag
 level: 2
 type: code
 
-auto-migrated: 1
-auto-migrated: 1
-
-auto-migrated: 1
-
-auto-migrated: 1
-
 ---
 
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+### Description
 
-{front matter for this file}
+The Secure Coding Dojo is a training platform which can be customized to integrate with custom vulnerable websites and other CTF challenges.
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+Here are some of the features:
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+* Integrates with Enterprise environments using Slack, Google and LDAP for authentication
+* It allows grouping of participants according to their development teams
+* It allows teams to track progress and compete with each other
+* Each lesson is built as an attack/defence pair. Developers can observe the software weaknesses by conducting the attack and after solving the challenge they learn about the associated software defenses
+* Predefined lessons are based on the MITRE most dangerous software errors (also known as SANS 25) so the focus is on software errors rather than attack techniques
+* The predefined hacking challenges are created for entry level and keep the developers engaged. Only a browser is needed.
+* With CTFs there is a puzzle aspect to the challenges which is great for pen-tester audiences but can make some developers lose interest. In the Secure Coding Dojo the focus is on demonstrating the vulnerability.
+* There are tips that help the developers as they are exploiting the issue to avoid getting stuck
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+### Licensing
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+This program is free software: you can redistribute it and/or modify it under the terms of the Apache License 2.0
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+### Roadmap
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+As of *December, 2020*, the highest priorities for the next 6 months are:
+* Dockerize the Second Degree Blackbelt 
+* Multi-language support
+* New training module with focus on containers
 
-```
-{info.md}
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+### Getting Involved
 
-{leaders.md}
+Involvement in the development and promotion of **Secure Coding Dojo** is actively encouraged!
+You do not have to be a security expert or a programmer to contribute.
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+Some of the ways you can help are as follows:
+* Try it out
+* Have your development team try it out
+* Submit feedback via Github issues
+* Submit pull requests
