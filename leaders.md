@@ -1,2 +1,3 @@
 ### Leaders
-* [Paul Ionescu](https://twitter.com/pentesq)
+
+* [Paul Ionescu](mailto://paul.ionescu@owasp.org)
