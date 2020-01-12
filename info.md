@@ -3,6 +3,11 @@
 * Project Level: Incubator
 * Project Type: Code
 
+### Demos
+
+* [Demo Video](https://github.com/trendmicro/SecureCodingDojo/tree/master/demo)
+* [Security Code Review Master Module (Github Static Site)](https://trendmicro.github.io/SecureCodingDojo/codereview101/)
+
 ### Downloads or Social Links
 
 * [Docker Hub](https://hub.docker.com/u/securecodingdojo)
@@ -16,11 +21,6 @@
 
 * [Secure Coding Dojo Wiki](https://github.com/trendmicro/SecureCodingDojo/wiki)
 
-### Demo Video
-
-* [Demo Video](https://github.com/trendmicro/SecureCodingDojo/tree/master/demo)
-
 ### Licensing
 
 * [Apache 2 License](https://www.apache.org/licenses/LICENSE-2.0)
-
