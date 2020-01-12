@@ -6,7 +6,7 @@
 ### Demos
 
 * [Demo Video](https://github.com/trendmicro/SecureCodingDojo/tree/master/demo)
-* [Security Code Review Master Module (Github Static Site)](https://trendmicro.github.io/SecureCodingDojo/codereview101/)
+* [Security Code Review 101 (Github Static Site)](https://trendmicro.github.io/SecureCodingDojo/codereview101/)
 
 ### Downloads or Social Links
 
