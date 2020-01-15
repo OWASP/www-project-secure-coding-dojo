@@ -1,5 +1,5 @@
 ---
-title: Workshop
+title: Try it out!
 layout:  null
 tab: true
 order: 1
