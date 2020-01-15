@@ -6,8 +6,6 @@ order: 1
 tags: secure-coding-dojo
 ---
 
-## Screenshots
-
 ### Training Portal Front Page
 ![Alt text](assets/images/frontpage.png?raw=true "Secure Coding Dojo Training Portal Front Page")
 
