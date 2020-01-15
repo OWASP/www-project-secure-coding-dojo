@@ -72,7 +72,7 @@ You may also find useful the AppSec DC 2019 presentation of the project: [AppSeC
 
 Costs for a permanent deployment may vary from $30/month to more depending on the number of participants.
 
-### Basic Setup
+#### Basic Setup
 
 - Install Docker latest version.
 - Git clone the repository
