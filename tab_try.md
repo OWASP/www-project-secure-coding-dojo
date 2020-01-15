@@ -1,5 +1,5 @@
 ---
-title: Try it out!
+title: Try
 layout:  null
 tab: true
 order: 1
