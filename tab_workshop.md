@@ -6,7 +6,7 @@ order: 1
 tags: secure-coding-dojo
 ---
 
-# Running a Secure Coding Workshop using the Dojo
+### Running a Secure Coding Workshop using the Dojo
 
 Bringing Software Security training to schools can have a positive impact on the security of future software. 
 The Secure Coding Dojo project was created to bring knowledge about software weaknesses and security best practices to classrooms of all sizes: from universities to large companies. This workshop package is intended to facilitate security advocates to deliver training sessions using the dojo.
@@ -14,7 +14,7 @@ The Secure Coding Dojo project was created to bring knowledge about software wea
 The workshop package is based on an event organized by the OWASP Ottawa Chapter and Secure that Cert at the University of Ottawa. Special thanks to the workshop organizers: Nancy Gariche, Garth Boyd, Miguel Garzon, Abdulwahaab Ahmed, Scott Kelly and Dave Petrasovic.
 
 
-# Package Contents
+### Package Contents
 
 The following resources are being provided with the package:
 - Prerequisites
@@ -23,7 +23,7 @@ The following resources are being provided with the package:
 - Recording of a lecture at the University of Ottawa using the presentation material
 - Dojo deployment instructions
 
-# Prerequisites
+### Prerequisites
 
 Students will be asked to bring the following:
 - Laptop with Internet access 
@@ -40,7 +40,7 @@ Organizers should consider the following:
 - Catering if applicable
 
 
-# Suggested Agenda
+### Suggested Agenda
 
 The following agenda is based on a full day workshop including lecture.
 
@@ -53,17 +53,17 @@ The following agenda is based on a full day workshop including lecture.
 - 13:30 Dojo Practice: Secure Coding Dojo Black Belt Module
 - 17:00 End of workshop
 
-# Presentation Material
+### Presentation Material
 
 Slides for the lecture portion are available [here](https://github.com/trendmicro/SecureCodingDojo/tree/master/workshop)
  and can be distributed under the licensing of this project.
 Please give credit to the content creator and graphics creators.
 
-# Lecture Recording
+### Lecture Recording
 
 A lecture recording using the provided presentation material can be found at the following [link](https://www.youtube.com/watch?v=1ghIH_Myu4U&feature=youtu.be&t=929)
 
-# Deploying Secure Coding Dojo
+### Deploying Secure Coding Dojo
 
 The Secure Coding Dojo runs from Docker containers. Students could easily deploy their own instance using docker-compose as described below. 
 Deploying a common permanent production instance of the Dojo requires a bit more setup with instructions available on the [wiki](https://github.com/trendmicro/SecureCodingDojo/wiki/Deploying-with-Docker) .
@@ -72,7 +72,7 @@ You may also find useful the AppSec DC 2019 presentation of the project: [AppSeC
 
 Costs for a permanent deployment may vary from $30/month to more depending on the number of participants.
 
-## Basic Setup
+### Basic Setup
 
 - Install Docker latest version.
 - Git clone the repository
