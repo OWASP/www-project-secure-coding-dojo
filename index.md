@@ -10,7 +10,7 @@ type: code
 
 ### Description
 
-The Secure Coding Dojo is a training platform which can be customized to integrate with custom vulnerable websites and other CTF challenges.
+The Secure Coding Dojo is a training platform which can be customized to integrate with custom vulnerable websites and other CTF challenges. The project was initially developed at Trend Micro and was donated to OWASP in 2021.
 
 Here are some of the features:
 
