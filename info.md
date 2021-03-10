@@ -1,6 +1,6 @@
 ### Project Information
 
-* Project Level: Incubator
+* Project Level: Lab
 * Project Type: Code
 
 ### Demos
