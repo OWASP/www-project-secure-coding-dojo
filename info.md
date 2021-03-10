@@ -15,11 +15,11 @@
 
 ### Code Repository
 
-* [Secure Coding Dojo Github](https://github.com/trendmicro/SecureCodingDojo)
+* [Secure Coding Dojo Github](https://github.com/owasp/SecureCodingDojo)
 
 ### Documentation
 
-* [Secure Coding Dojo Wiki](https://github.com/trendmicro/SecureCodingDojo/wiki)
+* [Secure Coding Dojo Wiki](https://github.com/owasp/SecureCodingDojo/wiki)
 
 ### Licensing
 
