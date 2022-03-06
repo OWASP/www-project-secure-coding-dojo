@@ -5,8 +5,9 @@
 
 ### Demos
 
+* [Hosted](https://securecoding.ninja)
 * [Security Code Review 101 (Github Static Site)](https://owasp.github.io/SecureCodingDojo/codereview101/)
-* [Demo Video](https://github.com/trendmicro/SecureCodingDojo/tree/master/demo)
+* [Demo Video](https://github.com/owasp/SecureCodingDojo/tree/master/demo)
 
 ### Downloads or Social Links
 
