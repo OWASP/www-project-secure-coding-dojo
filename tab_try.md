@@ -5,7 +5,10 @@ tab: true
 order: 1
 tags: secure-coding-dojo
 ---
+### Hosted by OWASP
+[https://securecodingdojo.owasp.org/](https://securecodingdojo.owasp.org/ )
 
+### Host it locally
 The following steps will get you the basic configuration for the Dojo. For advanced configuration and integrations check the [wiki](https://github.com/trendmicro/SecureCodingDojo/wiki/Deploying-with-Docker)
 
 - Install Docker latest version.
