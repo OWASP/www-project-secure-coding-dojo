@@ -3,7 +3,7 @@
 * Project Level: Lab
 * Project Type: Code
 
-### Demos
+### Try it out
 
 * [securecodingdojo.owasp.org](https://securecodingdojo.owasp.org)
 * [Demo Video](https://github.com/owasp/SecureCodingDojo/tree/master/demo)
