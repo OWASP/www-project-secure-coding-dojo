@@ -19,7 +19,7 @@ tags: secure-coding-dojo
 ![Alt text](assets/images/lessons.png?raw=true "Training modules")
 
 ### Code Review training module
-Check it out from Github as a static page: [Security Code Review 101 (Github Static Site)](https://trendmicro.github.io/SecureCodingDojo/codereview101/)
+Check it out from OWASP Coding Dojo static page: [Security Code Review 101](https://owasp.org/SecureCodingDojo/codereview101/)
 ![Alt text](assets/images/codereview.png?raw=true "Code review training")
 
 ### Common Software flaws training module
