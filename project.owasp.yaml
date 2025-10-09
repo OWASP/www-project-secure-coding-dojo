@@ -1,0 +1,26 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: Paul Ionescu
+    email: paul.ionescu@owasp.org
+    github: paul-ion
+level: 3
+license:
+  - Apache-2.0
+name: OWASP Secure Coding Dojo
+pitch: Description for OWASP Secure Coding Dojo
+repositories:
+  - name: www-project-secure-coding-dojo
+    url: https://github.com/OWASP/www-project-secure-coding-dojo
+    description: OWASP Foundation Web Repository
+  - name: SecureCodingDojo
+    url: https://github.com/OWASP/SecureCodingDojo
+    description: The Secure Coding Dojo is a platform for delivering secure coding knowledge.
+tags:
+  - secure-coding-dojo
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-secure-coding-dojo
